@@ -1,37 +1,35 @@
 # Changelog
 All notable changes to this project are documented in this file.
 
-This project adheres to semantic versioning for academic traceability.
+This project uses semantic versioning. Versions below 1.0.0
+represent active conceptual development and manifesto-stage articulation.
 
 ---
 
-## [1.0.0] — 2025-03-03
+## [0.4.0] — 2025-03-03
 ### Status
-Canonical thesis-aligned release
+Public manifesto / foundational draft
 
 ### Added
-- Formalized definition of interdependency as reciprocal competence
-- Explicit Jungian theoretical foundation
-- Operational definition of resonance as a cognitive coherence signal
-- Structured articles, definitions, and theoretical boundaries
-- Indisciplinary scope declaration
-- Explicit non-claims and epistemic limits
+- Explicit Jungian analytical psychology foundation
+- Resonance defined as a functional cognitive operator
+- Indisciplinary positioning statement
+- Early structural articles and definitions
+- Initial ethical framing of competence and interdependency
 
-### Fixed
-- Terminological ambiguities present in pre-release drafts
-- Implicit assumptions regarding mythic language
-- Boundary confusion between symbolic method and metaphysical assertion
+### Clarified
+- Distinction between symbolic method and metaphysical claim
+- Role of myth and archetype in psychological infrastructure
+- Non-claims regarding cosmology, theology, or supernatural assertion
 
 ### Notes
-This release corresponds to the version submitted for master’s thesis evaluation.
-Subsequent changes do not alter the examined framework.
+This version represents a public-facing manifesto and conceptual foundation.
+It is **not** a thesis submission version.
 
 ---
 
 ## [Unreleased]
 ### Planned
-- Post-thesis clarifications and refinements
-- Expanded commentary sections
-- Non-substantive editorial improvements
-
-Changes in this section are explicitly outside the scope of thesis examination.
+- Expansion of empirical psychological anchors
+- Formal integration of obedience, authority, and role-adoption research
+- Transition toward thesis-grade structure and constraint
