@@ -30,7 +30,7 @@ All derivative interpretations are non-authoritative unless explicitly endorsed 
 
 Theoretical Foundation
 
-This work is explicitly grounded in the analytical psychology of Carl Jung, particularly his treatment of archetypes as autonomous psychological operators rather than metaphors or cultural ornaments.
+This framework is informed not only by depth psychology, but by empirical research on obedience, authority, and role adoption, including the work of Jung, Milgram, and the Stanford Prison Experiment.
 
 Within this framework:
 
