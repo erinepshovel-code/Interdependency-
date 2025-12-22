@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "The Interdependent Way"
+message: "If you use or reference this work, please cite it as specified below."
+type: software
+authors:
+  - family-names: Spencer
+    given-names: Erin
+    name-particle: ""
+    affiliation: Independent Researcher
+    role: author
+abstract: >
+  The Interdependent Way is an indisciplinary ethical and psychological framework
+  grounded in competence-based ethics, Jungian analytical psychology, and the formal
+  treatment of symbolic resonance as a functional cognitive operator. The work defines
+  interdependency as reciprocal capability rather than mutual vulnerability, and treats
+  archetypal and mythic structures as methodological instruments rather than metaphor or belief.
+version: 1.0.0
+date-released: 2025-03-03
+license: CC-BY-NC-ND-4.0
+repository-code: https://github.com/<your-username>/interdependent-way
+keywords:
+  - interdependency
+  - competence ethics
+  - analytical psychology
+  - Carl Jung
+  - archetypes
+  - resonance
+  - indisciplinary research
+preferred-citation:
+  type: misc
+  authors:
+    - family-names: Spencer
+      given-names: Erin
+  year: 2025
+  title: "The Interdependent Way (Version 1.0.0)"
+  publisher: GitHub
+  url: https://github.com/<your-username>/interdependent-way
+  note: "Canonical thesis-aligned release"
